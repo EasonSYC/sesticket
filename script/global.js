@@ -623,7 +623,6 @@ let nameArray = [
 	"a7a12ba71f7ab5331cfffe1a0c1e12baa2661069",
 
 	"1774e2c4e2b80256dd9795e15e3582d3fd2e4b4b",
-	"fccfac5ea6317fb43541816f476a0b614a1efa5f",
 	"fab60904d36306295b5d27dc1745a645482b2201",
 	"032b83ec07d20c839f43b18b85ee2a71906cc524",
 	"a67a98a27ce25528db145277dde1a9eee29e9a46",
@@ -647,7 +646,6 @@ let pwdArray = [
 	"26fbe9076e5ff62ccdf3e638822455a0c27df2ce",
 
 	"83df01d6c37cd73b9e3e21fc41843dbe32e41ffc",
-	"49760f017daccda000140283ecdcdcdbdfa55579",
 	"7e226f1ff2de32b0e5b998c7b462110c1a21ea4b",
 	"89f3470b295b2e8cec7c3d44c6424d541c3a3151",
 	"72363c4a438ead591cbd436f69e4da0dd5c6d95f",
@@ -687,7 +685,7 @@ let typArray = [
 
 // Charge Strings & Functions
 
-let chargeUserID = [10, 16, 6, 18, 17, 14];
+let chargeUserID = [9, 15, 6, 17, 16, 13];
 let chargeStartDate = ["2021/06/07", "2021/06/07", "2021/06/07", "2021/06/07", "2021/06/11", "2021/06/16"];
 let chargeEndDate = ["2021/07/07", "2021/07/07", "2021/07/07", "2021/07/07", "2021/07/11", "2021/07/16"];
 let chargeStatus = [2, 2, 2, 2, 2, 2]; // 0: 已取消, 1: 已退款, 2: 正常充值, 3: 赠送
