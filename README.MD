@@ -12,7 +12,7 @@ DO NOT USE IT FOR ILLEGAL USES. The user should bear the results themselves.
 
 #### Website
 
-[Website](https://ses-1987.gitee.io/sesticket)
+[GitHub Pages](https://easonsyc.github.io/sesticket) or [Gitee Pages](https://easonsyc.gitee.io/sesticket).
 
 #### TODO:
 
